@@ -11,6 +11,11 @@ def get_sha1(filepath):
             h.update(chunk)
     return h.hexdigest()
 
+
+EXTERNAL_URLS = {
+    'mods/watermedia_binaries-3.0.0.6.jar': 'https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar'
+}
+
 files_manifest = []
 
 for category in ['mods', 'animations', 'config']:
@@ -20,11 +25,14 @@ for category in ['mods', 'animations', 'config']:
             for file in files:
                 full_path = os.path.join(root, file)
                 rel_path = os.path.relpath(full_path, sync_dir).replace('\\', '/')
-                files_manifest.append({
+                item_data = {
                     'path': rel_path,
                     'size': os.path.getsize(full_path),
                     'sha1': get_sha1(full_path)
-                })
+                }
+                if rel_path in EXTERNAL_URLS:
+                    item_data['url'] = EXTERNAL_URLS[rel_path]
+                files_manifest.append(item_data)
 
 whitelist = []
 if os.path.exists(whitelist_path):
