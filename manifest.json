@@ -1,0 +1,434 @@
+{
+  "version": "1.0.0",
+  "gameVersion": "1.21.1",
+  "loaderVersion": "0.16.10",
+  "totalFiles": 85,
+  "files": [
+    {
+      "path": "mods/audioplayer-fabric-1.21.1-1.13.2.jar",
+      "size": 791232,
+      "sha1": "28778446f57145ed30721c2bb03af8a6aa6e1664"
+    },
+    {
+      "path": "mods/bbe-fabric-1.3.4+mc1.21.1.jar",
+      "size": 179125,
+      "sha1": "e9e69e0d9489ba513992477ccda7abeee7894fd7"
+    },
+    {
+      "path": "mods/bf_blockpack-fabric-1.21.1-1.1.2.jar",
+      "size": 9811334,
+      "sha1": "ff08f7d9c584e1f41ef504082ed8cee7e707f1d9"
+    },
+    {
+      "path": "mods/BOMD-1.10.2-1.21.1.jar",
+      "size": 2679483,
+      "sha1": "98d20fba57e2ecbf309e15285449cb91eee19bda"
+    },
+    {
+      "path": "mods/cardinal-components-api-6.1.3.jar",
+      "size": 229645,
+      "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "size": 1157166,
+      "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
+    },
+    {
+      "path": "mods/dedsafio3-1.0.0-fabric-1.21.1.jar",
+      "size": 6564805,
+      "sha1": "e76afd9a3e8accb6e1c19d18df58a6842647c18f"
+    },
+    {
+      "path": "mods/eating-animation-1.21+1.9.72.jar",
+      "size": 1060520,
+      "sha1": "d89ecd0ac342697e0d1c3aaff1daa6c81bebe2f6"
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+      "size": 863362,
+      "sha1": "9be2a237e27f20d2d00f0036a8be53d7d66c5df5"
+    },
+    {
+      "path": "mods/EnhancedVisuals_FABRIC_v1.8.30_mc1.21.1.jar",
+      "size": 4736818,
+      "sha1": "4174f569418d7fb32adc2134b4c064b7032891b3"
+    },
+    {
+      "path": "mods/entityculling-fabric-1.11.2-mc1.21.1.jar",
+      "size": 1519213,
+      "sha1": "c400f3fb5f8668f99cdb52b5d4f92d11b4e3edf1"
+    },
+    {
+      "path": "mods/entity_model_features-3.3.9-1.21-fabric.jar",
+      "size": 639152,
+      "sha1": "5071631eaba8866e0eb323e5145375e7aaa3a157"
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.4-1.21-fabric.jar",
+      "size": 783201,
+      "sha1": "5ab53a8fdc23e2da2bd6bcccab56358c711c4bc2"
+    },
+    {
+      "path": "mods/eventos-1.0.0.jar",
+      "size": 2665208,
+      "sha1": "ada40b912dfb4a5eaff8d9371a5a21166e843627"
+    },
+    {
+      "path": "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
+      "size": 114621,
+      "sha1": "07725f58e05d46e1a3d9bb774e6b96c6fbe5dcb5"
+    },
+    {
+      "path": "mods/fabric-api-0.116.11+1.21.1.jar",
+      "size": 2426356,
+      "sha1": "65f4e8b9dcbad6697b2fb32fa0bb937ec5efcd84"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "size": 8142858,
+      "sha1": "62ae40a31b689b52fde399f2143d547a631e942c"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.9.12_MC_1.21.1.jar",
+      "size": 26267682,
+      "sha1": "f1762681137cfae8ef862a5e6a030527ad345324"
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-fabric.jar",
+      "size": 123450,
+      "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "size": 633065,
+      "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee"
+    },
+    {
+      "path": "mods/framer-1.4.2.jar",
+      "size": 114993,
+      "sha1": "ab6bce873937ca41cc43169cdd11246274cbb1bc"
+    },
+    {
+      "path": "mods/friendsandfoes-fabric-4.0.27+mc1.21.1.jar",
+      "size": 5106125,
+      "sha1": "e037fa0cb780b76b401be5f00b4b747b5b8cbf63"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
+      "size": 664463,
+      "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646"
+    },
+    {
+      "path": "mods/IllagerInvasion-v21.1.6-1.21.1-Fabric.jar",
+      "size": 2336674,
+      "sha1": "9bffd7c89b1f1b0d671bcac68363000dd08239c7"
+    },
+    {
+      "path": "mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+      "size": 124688,
+      "sha1": "b2809b3f433eaa5805e23a7ccb950b71051e2f89"
+    },
+    {
+      "path": "mods/immersive-portals-6.0.6-mc1.21.1-fabric.jar",
+      "size": 3121749,
+      "sha1": "ed8971a972769605adf4941ed999e897ded18c38"
+    },
+    {
+      "path": "mods/ImmersiveUI-FABRIC-0.3.3+1.21.1.jar",
+      "size": 211187,
+      "sha1": "ec425f712f358fe97e3b80c6e3922b73ab529b17"
+    },
+    {
+      "path": "mods/immersive_paintings-fabric-1.21.1-0.7.9.jar",
+      "size": 5520603,
+      "sha1": "db3c22af4d03d7318f3e430a5af5c9a20775898e"
+    },
+    {
+      "path": "mods/Jade-1.21.1-Fabric-15.10.6.jar",
+      "size": 740746,
+      "sha1": "bed67c605cbc991f474b270581cfa04ed48228df"
+    },
+    {
+      "path": "mods/konkrete-1.9.4.jar",
+      "size": 786695,
+      "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0"
+    },
+    {
+      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "size": 2023375,
+      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+      "size": 797454,
+      "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1fabric.jar",
+      "size": 1219302,
+      "sha1": "7b31f8db94fff60eee188a5118438def65adba40"
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "size": 2087232,
+      "sha1": "4c914a4d3bb84103b34346e60c6aa981be8dfa23"
+    },
+    {
+      "path": "mods/melody-1.0.6.jar",
+      "size": 188035,
+      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c"
+    },
+    {
+      "path": "mods/mobfilter-0.11.2+1.21.1.jar",
+      "size": 350353,
+      "sha1": "13339370fdd0f8425c47583efbd32972e634d2fe"
+    },
+    {
+      "path": "mods/modelfix-1.21-1.6-fabric.jar",
+      "size": 62761,
+      "sha1": "b8069f2a672abdea1112daa6d716a0e482cf61ea"
+    },
+    {
+      "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "size": 471258,
+      "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
+    },
+    {
+      "path": "mods/morechathistory-1.3.1.jar",
+      "size": 3573,
+      "sha1": "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e"
+    },
+    {
+      "path": "mods/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+      "size": 309410,
+      "sha1": "789cabd9b1fed079af87f675d1d6c1c95b603e19"
+    },
+    {
+      "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+      "size": 555041,
+      "sha1": "3ce548910f0aa2cef79dc333982493ccf8d73a3e"
+    },
+    {
+      "path": "mods/placeholder-api-2.4.2+1.21.jar",
+      "size": 232325,
+      "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3"
+    },
+    {
+      "path": "mods/plasmovoice-fabric-1.21.1-2.1.17.jar",
+      "size": 12365966,
+      "sha1": "1465f749d64c0861a5c91ec249167e9a59a6b1c0"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.60-mc1.21.1-Fabric.jar",
+      "size": 1499349,
+      "sha1": "c1cd667d699905c0ae6dcad6e2dacaed8fbc1605"
+    },
+    {
+      "path": "mods/reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
+      "size": 257229,
+      "sha1": "552c80c3113ad346c3abcdf7c5c6cc3a02a5fb62"
+    },
+    {
+      "path": "mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+      "size": 379091,
+      "sha1": "3f119c2fe561235f5af384fba4dd7a4b6f1617c2"
+    },
+    {
+      "path": "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar",
+      "size": 472019,
+      "sha1": "628487b330c9589d26cada5c4a51ac457af80a1f"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+      "size": 1574609,
+      "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
+    },
+    {
+      "path": "mods/soulrelics-1.0.0.jar",
+      "size": 53931,
+      "sha1": "d9720af01d2c008427e3eba06bdd9035517b6ffb"
+    },
+    {
+      "path": "mods/styled-chat-2.6.1+1.21.jar",
+      "size": 487791,
+      "sha1": "e6ab5db7b89994cb23e55de7f868731b22770a0b"
+    },
+    {
+      "path": "mods/trashslot-fabric-1.21.1-21.1.11.jar",
+      "size": 78842,
+      "sha1": "1e58a95ebfd9c2078fcba4100f1afa80512c9f94"
+    },
+    {
+      "path": "mods/waitingscreen-1.0.3-Fabric-1.21.1.jar",
+      "size": 74847,
+      "sha1": "2f257c57581626635de8c6ae874e0d38b5fdf9ff"
+    },
+    {
+      "path": "mods/waterframes-FABRIC-mc1.21.1-v2.1.22.jar",
+      "size": 266292,
+      "sha1": "d891be7912177a847a3547a76d8afc07fe64aef6"
+    },
+    {
+      "path": "mods/watermedia-3.0.0.23.jar",
+      "size": 3625445,
+      "sha1": "a983a0875b8b1210c998c48b9157315dcb5aa296"
+    },
+    {
+      "path": "mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar",
+      "size": 82210,
+      "sha1": "f792abe359b9ce22a73e4195bc6dec7a2eced78d"
+    },
+    {
+      "path": "mods/waveycapes-fabric-1.11.2-mc1.21.1.jar",
+      "size": 1789704,
+      "sha1": "3cefa859d45c5148492923e7aa363fc19c5995d6"
+    },
+    {
+      "path": "mods/worldedit-mod-7.3.8.jar",
+      "size": 6222854,
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
+    },
+    {
+      "path": "mods/World_Guard-fabric-1.21.1-1.0.1.jar",
+      "size": 21417,
+      "sha1": "675ce4dfa7238491fc21db9a3a3d5fe5de97d732"
+    },
+    {
+      "path": "mods/xaerominimap-fabric-1.21.1-26.5.0.jar",
+      "size": 2233763,
+      "sha1": "b9cec1acb286b6d7c05759c0c1e4b8a04f28d785"
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-1.21.1-1.46.0.jar",
+      "size": 1451734,
+      "sha1": "532942aff4536c46cd66d0b8fea2964740562319"
+    },
+    {
+      "path": "mods/xlpackets-1.0.5-1.21.jar",
+      "size": 15238,
+      "sha1": "3a1370a4594f1da0d55a55f09d03e2e05c255e4c"
+    },
+    {
+      "path": "mods/yosbr-0.1.2.jar",
+      "size": 17373,
+      "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
+    },
+    {
+      "path": "animations/logov2_new.framer",
+      "size": 338367698,
+      "sha1": "63d3c19a3edb4cf14453a3837ade37a214c03f21"
+    },
+    {
+      "path": "animations/logo_eufonia.framer",
+      "size": 941904,
+      "sha1": "8edd68b7e2e0263fc267bb4e07ef6ca9c2e0d90c"
+    },
+    {
+      "path": "animations/logo_eufoniav2.framer",
+      "size": 2363814,
+      "sha1": "8ea8748fb984280b0fbd9083752a7c1861b28225"
+    },
+    {
+      "path": "animations/logo_kick.framer",
+      "size": 1398184,
+      "sha1": "a2f894f21e26154fad1d5a62bbd22a91b4330989"
+    },
+    {
+      "path": "animations/momento_nutria_framerv2_new.framer",
+      "size": 286913844,
+      "sha1": "a849867fe19ff4c5428a9dcb9755f15b0640b644"
+    },
+    {
+      "path": "animations/momento_reviil_gif_new.framer",
+      "size": 50233796,
+      "sha1": "4b3178856379b528526f55f4e3db1bc421ee932c"
+    },
+    {
+      "path": "animations/muerte_gifv2_new.framer",
+      "size": 23600229,
+      "sha1": "af12ca47ea95a8dc300c37039b281403303b80c6"
+    },
+    {
+      "path": "animations/muerte_gif_new.framer",
+      "size": 30697483,
+      "sha1": "3006ca638e424238074f56c0624631de7828c9d6"
+    },
+    {
+      "path": "animations/ruleta_amarilla_framer_new2.framer",
+      "size": 221995739,
+      "sha1": "8dccb5e5baf3f5e12c888b0dad68e16a63ad29ef"
+    },
+    {
+      "path": "animations/ruleta_azul_framer_new2.framer",
+      "size": 220865949,
+      "sha1": "a6595c3289d7ac7b01ceec528ba8911bd0edbea9"
+    },
+    {
+      "path": "animations/ruleta_celeste_framer_new2.framer",
+      "size": 220625509,
+      "sha1": "d6da87eddb23b63b63fb896b31f6e453e3fa21ef"
+    },
+    {
+      "path": "animations/ruleta_morada_framer_new2.framer",
+      "size": 220691798,
+      "sha1": "f06dd391f2dfc99e9679a3778a10bfd55d07350b"
+    },
+    {
+      "path": "animations/ruleta_naranja_framer_new2.framer",
+      "size": 263797570,
+      "sha1": "a59184422bb944db0aa40201e7e0d3096c301b5d"
+    },
+    {
+      "path": "animations/ruleta_rojo_framer_new2.framer",
+      "size": 218520430,
+      "sha1": "1364f92726772112c008da62c57907d35fde8bef"
+    },
+    {
+      "path": "animations/ruleta_rosa_framer_new2.framer",
+      "size": 217438829,
+      "sha1": "6455c1f312dbe4b8d0708bb8620f9e00d9af74b0"
+    },
+    {
+      "path": "animations/ruleta_verde_framer_new2.framer",
+      "size": 216129571,
+      "sha1": "5384604aafde42c03fc1eec6dc116087eed65325"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "size": 26,
+      "sha1": "17448fdc6b8e32382c01b752a2b06d063e9aba96"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "size": 51,
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "size": 42,
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "size": 1946,
+      "sha1": "3ab38debb9122e5195bcc0180c9ac7a0177aa236"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "size": 23,
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "size": 4133,
+      "sha1": "6c4a7a9a509c3b81c62a497c4cb53a3eddf61219"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "size": 4135,
+      "sha1": "fb42def9e33a2792c19002a717318ec733283e8d"
+    }
+  ],
+  "whitelist": []
+}
