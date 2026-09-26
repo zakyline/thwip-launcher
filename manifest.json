@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "gameVersion": "1.21.1",
   "loaderVersion": "0.16.10",
-  "totalFiles": 93,
+  "totalFiles": 190,
   "files": [
     {
       "path": "mods/architectury-13.0.8.jar",
@@ -86,8 +86,8 @@
     },
     {
       "path": "mods/eventos-1.0.0.jar",
-      "size": 2665208,
-      "sha1": "ada40b912dfb4a5eaff8d9371a5a21166e843627"
+      "size": 5435514,
+      "sha1": "7e679a41e1d7599568e587609521f9965d776a9d"
     },
     {
       "path": "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
@@ -295,11 +295,6 @@
       "sha1": "2f257c57581626635de8c6ae874e0d38b5fdf9ff"
     },
     {
-      "path": "mods/waterframes-FABRIC-mc1.21.1-v2.1.22.jar",
-      "size": 266292,
-      "sha1": "d891be7912177a847a3547a76d8afc07fe64aef6"
-    },
-    {
       "path": "mods/watermedia-3.0.0.23.jar",
       "size": 3625445,
       "sha1": "a983a0875b8b1210c998c48b9157315dcb5aa296"
@@ -309,11 +304,6 @@
       "size": 143725808,
       "sha1": "8f132fc2fec0fe91a9a085c11088f0773da187fc",
       "url": "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar"
-    },
-    {
-      "path": "mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar",
-      "size": 82210,
-      "sha1": "f792abe359b9ce22a73e4195bc6dec7a2eced78d"
     },
     {
       "path": "mods/waveycapes-fabric-1.11.2-mc1.21.1.jar",
@@ -356,39 +346,529 @@
       "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
     },
     {
-      "path": "animations/logov2_new.framer",
-      "size": 338367698,
-      "sha1": "63d3c19a3edb4cf14453a3837ade37a214c03f21"
+      "path": "config/fancymenu/customizablemenus.txt",
+      "size": 1281,
+      "sha1": "57ab4afeb9327fc6cac376ed7e718decac33dedd"
     },
     {
-      "path": "animations/logo_eufonia.framer",
-      "size": 941904,
-      "sha1": "8edd68b7e2e0263fc267bb4e07ef6ca9c2e0d90c"
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "size": 51,
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
     },
     {
-      "path": "animations/logo_eufoniav2.framer",
-      "size": 2363814,
-      "sha1": "8ea8748fb984280b0fbd9083752a7c1861b28225"
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "size": 42,
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
     },
     {
-      "path": "animations/logo_kick.framer",
-      "size": 1398184,
-      "sha1": "a2f894f21e26154fad1d5a62bbd22a91b4330989"
+      "path": "config/fancymenu/normalized_scroll_screens.json",
+      "size": 54,
+      "sha1": "9891d70e1a4c50a807f1efe71888ecba15e37750"
     },
     {
-      "path": "animations/momento_nutria_framerv2_new.framer",
-      "size": 286913844,
-      "sha1": "a849867fe19ff4c5428a9dcb9755f15b0640b644"
+      "path": "config/fancymenu/options.txt",
+      "size": 4399,
+      "sha1": "623589341b4dbefd67773b4cd67a93d562b4731c"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "size": 190,
+      "sha1": "5a2180ad7a96ef4e166cdd6d7bd65def053110b9"
+    },
+    {
+      "path": "config/fancymenu/assets/air.png",
+      "size": 266,
+      "sha1": "d1feccb97c80102b58efdec2cdce0c470d8c6c45"
+    },
+    {
+      "path": "config/fancymenu/assets/air_bar_minimalist.png",
+      "size": 312,
+      "sha1": "bc6658f705c4b47862d15dff1332f0e4521319dc"
+    },
+    {
+      "path": "config/fancymenu/assets/air_minimalist.png",
+      "size": 362,
+      "sha1": "d30a76797b21ad7b45b88714c5a5f40692973b42"
+    },
+    {
+      "path": "config/fancymenu/assets/armor.png",
+      "size": 266,
+      "sha1": "91c26f55e885cd80365f121d064688f491f97609"
+    },
+    {
+      "path": "config/fancymenu/assets/armor_bar.png",
+      "size": 198,
+      "sha1": "96e06c901cab03fe293f99a873ed016fd0687333"
+    },
+    {
+      "path": "config/fancymenu/assets/armor_bar_minimalist.png",
+      "size": 428,
+      "sha1": "106a7a6b539a8cd0b251f38bb26d738a0d388d29"
+    },
+    {
+      "path": "config/fancymenu/assets/armor_minimalist.png",
+      "size": 490,
+      "sha1": "f6cabdda3c3bf2c2747b972bc8a52b3077f1caff"
+    },
+    {
+      "path": "config/fancymenu/assets/button-nineslice-3x5.png",
+      "size": 145,
+      "sha1": "ecf67f525775d2e684326bcf4ebe9b9f8abed5f1"
+    },
+    {
+      "path": "config/fancymenu/assets/button-nineslice-3x5_hovered.png",
+      "size": 132,
+      "sha1": "83e9a58d0a5e5854b7c0a84f51c5711f43f84caf"
+    },
+    {
+      "path": "config/fancymenu/assets/button_adventure.png",
+      "size": 690,
+      "sha1": "79dcdf3100f9c813a825a4c5b83abc83fcc61a8e"
+    },
+    {
+      "path": "config/fancymenu/assets/button_adventure_hovered.png",
+      "size": 716,
+      "sha1": "6f896fdde417cdaa49a7f46eda68b93728f25949"
+    },
+    {
+      "path": "config/fancymenu/assets/discord_icon.png",
+      "size": 249324,
+      "sha1": "9a80d696d4230a11dfdac59c8db384d406c7408e"
+    },
+    {
+      "path": "config/fancymenu/assets/exit_icon.png",
+      "size": 244250,
+      "sha1": "79a0ca3659f0d0ddd56dbcab6ad0599e74e5a487"
+    },
+    {
+      "path": "config/fancymenu/assets/fill_armor.png",
+      "size": 147,
+      "sha1": "190edfaf12326ec115334f1f4452fe614244db60"
+    },
+    {
+      "path": "config/fancymenu/assets/fill_health.png",
+      "size": 140,
+      "sha1": "5c5a7ba000273b3220989fb74ba5c9e94f3c0043"
+    },
+    {
+      "path": "config/fancymenu/assets/food.png",
+      "size": 318,
+      "sha1": "ccfefd6397d9b2f5c329b20ed041a13210378934"
+    },
+    {
+      "path": "config/fancymenu/assets/food_bar_minimalist.png",
+      "size": 594,
+      "sha1": "13330cc58c592471ab5c4911e13c1bd5db6f9265"
+    },
+    {
+      "path": "config/fancymenu/assets/food_minimalist.png",
+      "size": 545,
+      "sha1": "a02c49e9c286b005fe5aabb2fb6b04aa7e8e35ec"
+    },
+    {
+      "path": "config/fancymenu/assets/gallery_icon.png",
+      "size": 504,
+      "sha1": "a90530bd814aff3cfb4405734bb5a7f7b13c46be"
+    },
+    {
+      "path": "config/fancymenu/assets/gallery_icon_fadedd.png",
+      "size": 519,
+      "sha1": "7a66cc2684c3f10273de9e209b522ae6bd6ed6a2"
+    },
+    {
+      "path": "config/fancymenu/assets/grey.png",
+      "size": 2525,
+      "sha1": "a9cb744ee18ff6a82d93636e0171b47da8d61423"
+    },
+    {
+      "path": "config/fancymenu/assets/health_bar_minimalist.png",
+      "size": 130,
+      "sha1": "a6dc505fb1f9ee265aafb64facb28f868e36097d"
+    },
+    {
+      "path": "config/fancymenu/assets/hearth.png",
+      "size": 288,
+      "sha1": "343088c9ec929f14b672fa2f189b89af3c442d5e"
+    },
+    {
+      "path": "config/fancymenu/assets/hearthbar.png",
+      "size": 203,
+      "sha1": "7ea0c7b2b9011e2d29d730982456b36b3b9f94bd"
+    },
+    {
+      "path": "config/fancymenu/assets/heart_minimalist.png",
+      "size": 469,
+      "sha1": "ad10723b696aadc13a6b3e71130c54b46ea47f8b"
+    },
+    {
+      "path": "config/fancymenu/assets/hotbar.png",
+      "size": 262,
+      "sha1": "7924ac2de8cb4f7d34fda8f4c42ad770044c1248"
+    },
+    {
+      "path": "config/fancymenu/assets/hotbar_minimalist.png",
+      "size": 164,
+      "sha1": "a3633d71c5216a55959cd5a6f603bc43b06562c3"
+    },
+    {
+      "path": "config/fancymenu/assets/hotbar_offhand_minimalist.png",
+      "size": 118,
+      "sha1": "e69a306b7170ccbfbcc6fab12a5842c705d5361d"
+    },
+    {
+      "path": "config/fancymenu/assets/hotbar_selection.png",
+      "size": 240,
+      "sha1": "0fe971b13d225e4f0fe2bdd6acf38e0789c542aa"
+    },
+    {
+      "path": "config/fancymenu/assets/hotbar_selection_minimalist.png",
+      "size": 148,
+      "sha1": "0edd21be4e2455712b3d3a81f0011c3c268c2ef2"
+    },
+    {
+      "path": "config/fancymenu/assets/hudbackg.png",
+      "size": 2086,
+      "sha1": "4713d5fbc319737933c2a5f674bd2cf23fb525fe"
+    },
+    {
+      "path": "config/fancymenu/assets/level_icon.png",
+      "size": 164,
+      "sha1": "9a23a43d777ce12f7a2be23fe538a5ac647d4453"
+    },
+    {
+      "path": "config/fancymenu/assets/level_minimalist.png",
+      "size": 139,
+      "sha1": "02ebef48700355ad3c87ad99d51d2f1214b1c3e6"
+    },
+    {
+      "path": "config/fancymenu/assets/logoperu.png",
+      "size": 1302090,
+      "sha1": "e603ab9d5610dd7fc6f64676bb294223f3706ed2"
+    },
+    {
+      "path": "config/fancymenu/assets/mana_bar.png",
+      "size": 196,
+      "sha1": "f269fc62d8d4eb62a0e79b6d4dcb7ff8d6952f4a"
+    },
+    {
+      "path": "config/fancymenu/assets/mana_bar_minimalist.png",
+      "size": 130,
+      "sha1": "f9f512ac65c2920ad420994fe19689fda4fb543b"
+    },
+    {
+      "path": "config/fancymenu/assets/mana_minimalist.png",
+      "size": 371,
+      "sha1": "01ef7816aa844a67720f8b8842689f883c87db0a"
+    },
+    {
+      "path": "config/fancymenu/assets/menu_title_adventure.png",
+      "size": 4879,
+      "sha1": "c3f3b832fedc3ecbd0ff895d6da560fd79e922ba"
+    },
+    {
+      "path": "config/fancymenu/assets/montana.jpg",
+      "size": 2221675,
+      "sha1": "1979081f6cf18637560637cd67ac4cf3ada2edca"
+    },
+    {
+      "path": "config/fancymenu/assets/multiplayer_button.png",
+      "size": 659431,
+      "sha1": "b9e400038efd646966fe271e9b2df791c613dd74"
+    },
+    {
+      "path": "config/fancymenu/assets/multiplayer_button_hovered.png",
+      "size": 658989,
+      "sha1": "fc1561bea4986c00ccad040789f2b4ef375d785b"
+    },
+    {
+      "path": "config/fancymenu/assets/resources_empty_minimalist.png",
+      "size": 120,
+      "sha1": "fbe5636c1ea6e31494cd9776b27d9de36dc06f60"
+    },
+    {
+      "path": "config/fancymenu/assets/setting_icon.png",
+      "size": 238585,
+      "sha1": "24beb10345a767a03d03a14757e5ddd8df395947"
+    },
+    {
+      "path": "config/fancymenu/assets/singleplayer_button.png",
+      "size": 797242,
+      "sha1": "c95d2cef53651a6d0ab08d98f31c50508acc025f"
+    },
+    {
+      "path": "config/fancymenu/assets/singleplayer_button_hovered.png",
+      "size": 796185,
+      "sha1": "c856e2c05d7eafdbf23a7c92d943410930c5c8c5"
+    },
+    {
+      "path": "config/fancymenu/assets/slider_adventure.png",
+      "size": 694,
+      "sha1": "fb85a5501238b74433a66249906cd3121c5f631f"
+    },
+    {
+      "path": "config/fancymenu/assets/slider_handle_adventure.png",
+      "size": 294,
+      "sha1": "0f411dbf4c4d79a37d324d8d5a048f25a31d6946"
+    },
+    {
+      "path": "config/fancymenu/assets/slider_handle_highlighted_adventure.png",
+      "size": 237,
+      "sha1": "43e5847700fca78976cf10560c38d296840c095e"
+    },
+    {
+      "path": "config/fancymenu/assets/slider_highlighted_adventure.png",
+      "size": 745,
+      "sha1": "6e4174d6b7aa8fac4d034c3ee0554bf4088c0791"
+    },
+    {
+      "path": "config/fancymenu/assets/static_bg.png",
+      "size": 2431425,
+      "sha1": "7c61419b4947c3bb84017f5d94c25c9a79afe5a9"
+    },
+    {
+      "path": "config/fancymenu/assets/title.png",
+      "size": 80527,
+      "sha1": "e96227be511b9ca05d20a25c2553bc52e3ba0648"
+    },
+    {
+      "path": "config/fancymenu/assets/white.jpg",
+      "size": 463,
+      "sha1": "7650bc06a0f98bf84abf99d7b61a1060715678f1"
+    },
+    {
+      "path": "config/fancymenu/assets/xp_bar.png",
+      "size": 928,
+      "sha1": "87868dc7f9c5dae27906a4966c185e7af37733d5"
+    },
+    {
+      "path": "config/fancymenu/customization/accessibility_options_screen_layout_adventure.txt",
+      "size": 7427,
+      "sha1": "2d1aa41f5cd895c32d18a418434a24746cd6e11e"
+    },
+    {
+      "path": "config/fancymenu/customization/accessibility_options_screen_layout_minimalist.txt",
+      "size": 7442,
+      "sha1": "9cb31418949818aee71ea63b05bb650f1f3f013c"
+    },
+    {
+      "path": "config/fancymenu/customization/advancements_screen_layout_adventure.txt",
+      "size": 9568,
+      "sha1": "8c32adaf7cf12d183513e9e38b2406e55229fe77"
+    },
+    {
+      "path": "config/fancymenu/customization/advancements_screen_layout_minimalist.txt",
+      "size": 9584,
+      "sha1": "cbde8179c3fd2e8b54028705d51430f4362f3aba"
+    },
+    {
+      "path": "config/fancymenu/customization/adventure_hud.txt",
+      "size": 79511,
+      "sha1": "e3f3ef657f67ff6b0e0419a866dd38a191d3778d"
+    },
+    {
+      "path": "config/fancymenu/customization/chat_options_screen_layout_adventure.txt",
+      "size": 5268,
+      "sha1": "8e84ec66cd40daf1feb34241b5389d742c8a4181"
+    },
+    {
+      "path": "config/fancymenu/customization/chat_options_screen_layout_minimalist.txt",
+      "size": 5276,
+      "sha1": "ef1d3c39e6ce1c41609348dfde7486de6e7d331d"
+    },
+    {
+      "path": "config/fancymenu/customization/controls_screen_layout_adventure.txt",
+      "size": 5264,
+      "sha1": "c284cd706b228a122e09a0808a58532ef367d62b"
+    },
+    {
+      "path": "config/fancymenu/customization/controls_screen_layout_minimalist.txt",
+      "size": 5272,
+      "sha1": "61223ce6affa8d6c11297a2cc7e03902caffa167"
+    },
+    {
+      "path": "config/fancymenu/customization/creative_mode_inventory_screen_layout.txt",
+      "size": 60976,
+      "sha1": "3db221d2fd41c2640e1ca2d5777f2f90da438530"
+    },
+    {
+      "path": "config/fancymenu/customization/credits_and_attribution_screen_layout_adventure.txt",
+      "size": 11491,
+      "sha1": "effc1adf3dc43deab47caa8a4feb137bef996399"
+    },
+    {
+      "path": "config/fancymenu/customization/credits_and_attribution_screen_layout_minimalist.txt",
+      "size": 11755,
+      "sha1": "7e582a4c72ab3369e121fa208f2fe79b722779f1"
+    },
+    {
+      "path": "config/fancymenu/customization/FPS_Friendly.txt",
+      "size": 34727,
+      "sha1": "3655d2141a4980e27bb90d908be18d170cc98f25"
+    },
+    {
+      "path": "config/fancymenu/customization/inventory_screen_layout.txt",
+      "size": 22560,
+      "sha1": "c7d864e1e4bb4fe875fb83456771de3112396c59"
+    },
+    {
+      "path": "config/fancymenu/customization/language_select_screen_layout_minimalist.txt",
+      "size": 9407,
+      "sha1": "e2a6b3eea7b81e4829c3c53310ab2107c57c004b"
+    },
+    {
+      "path": "config/fancymenu/customization/mainmenu.txt",
+      "size": 54340,
+      "sha1": "b37870ab29d580fc12d7c35be7841bca950896bf"
+    },
+    {
+      "path": "config/fancymenu/customization/net.neoforged.neoforge.client.gui.modlistscreen_layout_adventure.txt",
+      "size": 16023,
+      "sha1": "64af6472599c418ca72659d019cca43a2dd7f0e8"
+    },
+    {
+      "path": "config/fancymenu/customization/net.neoforged.neoforge.client.gui.modlistscreen_layout_minimalist.txt",
+      "size": 16060,
+      "sha1": "a272b3f1df159c6a1d85f0277a1c8953ba4325f4"
+    },
+    {
+      "path": "config/fancymenu/customization/options_screen_layout_adventure.txt",
+      "size": 33253,
+      "sha1": "d6db74ed2f67f62c112db851e44e2849191d050c"
+    },
+    {
+      "path": "config/fancymenu/customization/options_screen_layout_minimalist.txt",
+      "size": 33300,
+      "sha1": "73a0f225e50d60f6cd94c7daf51306343d9a431e"
+    },
+    {
+      "path": "config/fancymenu/customization/pause_screen_layout_adventure.txt",
+      "size": 36726,
+      "sha1": "f9c4486058f4a913de9c67e3c2f5221672009529"
+    },
+    {
+      "path": "config/fancymenu/customization/pause_screen_layout_minimalist.txt",
+      "size": 27080,
+      "sha1": "be83bf5fccd335aefbde453ebdcce9a6b4aeb753"
+    },
+    {
+      "path": "config/fancymenu/customization/pause_screen_layout_vanilla.txt",
+      "size": 25197,
+      "sha1": "ec5c803ea75d459a56f30d43ec9975d280933de7"
+    },
+    {
+      "path": "config/fancymenu/customization/select_world_screen_layouts_adventure.txt",
+      "size": 14007,
+      "sha1": "b6828b163279771106e903d4104cc9dbd1700238"
+    },
+    {
+      "path": "config/fancymenu/customization/select_world_screen_layout_minimalist.txt",
+      "size": 14056,
+      "sha1": "d4a2caf0e10815c24f710b39521d9e3457a32166"
+    },
+    {
+      "path": "config/fancymenu/customization/share_to_lan_screen_layout_adventure.txt",
+      "size": 11726,
+      "sha1": "614d614323d76fbbf807c71b15d00f92fc43ce82"
+    },
+    {
+      "path": "config/fancymenu/customization/share_to_lan_screen_layout_minimalist.txt",
+      "size": 11749,
+      "sha1": "dc4abe94bc4e9be3cc27e2822459c8e41bfa24d6"
+    },
+    {
+      "path": "config/fancymenu/customization/skin_customization_screen_layout_adventure.txt",
+      "size": 7247,
+      "sha1": "b294acb5d5930fb59ca95e337188bf90ca8cd1b8"
+    },
+    {
+      "path": "config/fancymenu/customization/sound_options_screen_layout_adventure.txt",
+      "size": 5270,
+      "sha1": "fbfbf9eb912e9d517aa63a7beefa6cf6a157aadb"
+    },
+    {
+      "path": "config/fancymenu/customization/sound_options_screen_layout_minimalist.txt",
+      "size": 5278,
+      "sha1": "beae6323088628f6e581b60100d760e4068f8a27"
+    },
+    {
+      "path": "config/fancymenu/customization/spiffy_overlay_layout_minimalist.txt",
+      "size": 76937,
+      "sha1": "6de86878add4dd784aaaeead8a472ec31715662e"
+    },
+    {
+      "path": "config/fancymenu/customization/stats_screen_layout_adventure.txt",
+      "size": 11716,
+      "sha1": "231da0a1d5e275a3d9abff6f34842818bad373b0"
+    },
+    {
+      "path": "config/fancymenu/customization/stats_screen_layout_minimalist.txt",
+      "size": 11739,
+      "sha1": "1adce0f45ba5a13903b9a21b38aa7b4450a6d8c1"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "size": 204,
+      "sha1": "4b3453eb889cc44aacb313704d6abe4f92205600"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "size": 9349,
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "size": 9347,
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "size": 9329,
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "size": 9359,
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "size": 9331,
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "size": 9361,
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "size": 9345,
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "size": 9343,
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "size": 9347,
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+    },
+    {
+      "path": "config/yosbr/options.txt",
+      "size": 6260,
+      "sha1": "f212c671106a34a624c3e49c32a71c280825d5ae"
+    },
+    {
+      "path": "config/yosbr/servers.dat",
+      "size": 7918,
+      "sha1": "c3e723d748768f40ed3082fe6774378cd3942eef"
     },
     {
       "path": "animations/momento_reviil_gif_new.framer",
       "size": 50233796,
       "sha1": "4b3178856379b528526f55f4e3db1bc421ee932c"
-    },
-    {
-      "path": "animations/muerte_gifv2_new.framer",
-      "size": 23600229,
-      "sha1": "af12ca47ea95a8dc300c37039b281403303b80c6"
     },
     {
       "path": "animations/muerte_gif_new.framer",
@@ -436,40 +916,54 @@
       "sha1": "5384604aafde42c03fc1eec6dc116087eed65325"
     },
     {
-      "path": "config/fancymenu/customizablemenus.txt",
-      "size": 26,
-      "sha1": "17448fdc6b8e32382c01b752a2b06d063e9aba96"
+      "path": "fancymenu_data/action_favorites.json",
+      "size": 0,
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
-      "path": "config/fancymenu/custom_gui_screens.txt",
-      "size": 51,
-      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+      "path": "fancymenu_data/browser_audio_settings.json",
+      "size": 0,
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
-      "path": "config/fancymenu/legacy_checklist.txt",
-      "size": 42,
-      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+      "path": "fancymenu_data/browser_video_settings.json",
+      "size": 0,
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
-      "path": "config/fancymenu/options.txt",
-      "size": 1946,
-      "sha1": "3ab38debb9122e5195bcc0180c9ac7a0177aa236"
+      "path": "fancymenu_data/last_world.fmdata",
+      "size": 95,
+      "sha1": "688aa800e0c7f9e8494422806f0751e415cb24ad"
     },
     {
-      "path": "config/fancymenu/user_variables.db",
-      "size": 23,
-      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+      "path": "fancymenu_data/buddy/buddy_leveling_ZTg3MGI4NDctOWFiZS00Y2I0LTg1YmMtMmI3OGZiMDQ2YzE3LTE3OTAzNTQzMDk4MTA.json",
+      "size": 1619,
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305"
     },
     {
-      "path": "config/fancymenu/ui_themes/dark.json",
-      "size": 4133,
-      "sha1": "6c4a7a9a509c3b81c62a497c4cb53a3eddf61219"
+      "path": "fancymenu_data/buddy/buddy_save_ZTg3MGI4NDctOWFiZS00Y2I0LTg1YmMtMmI3OGZiMDQ2YzE3LTE3OTAzNTQzMDk4MTA.json",
+      "size": 380,
+      "sha1": "4ec33d9aeedc1fce83078c69653491c8dcee6ca3"
     },
     {
-      "path": "config/fancymenu/ui_themes/light.json",
-      "size": 4135,
-      "sha1": "fb42def9e33a2792c19002a717318ec733283e8d"
+      "path": "servers.dat",
+      "size": 7918,
+      "sha1": "c3e723d748768f40ed3082fe6774378cd3942eef"
+    },
+    {
+      "path": "options.txt",
+      "size": 6260,
+      "sha1": "f212c671106a34a624c3e49c32a71c280825d5ae"
     }
   ],
-  "whitelist": []
+  "whitelist": [
+    {
+      "uuid": "5df33b2d-4c6f-40e9-a4c8-be622541fba8",
+      "name": "zakyline"
+    },
+    {
+      "uuid": "3fbd983b-cec3-4628-a0ec-fe85de01fead",
+      "name": "claritatie"
+    }
+  ]
 }

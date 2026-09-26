@@ -11,14 +11,14 @@ def get_sha1(filepath):
             h.update(chunk)
     return h.hexdigest()
 
-
 EXTERNAL_URLS = {
     'mods/watermedia_binaries-3.0.0.6.jar': 'https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar'
 }
 
 files_manifest = []
 
-for category in ['mods', 'animations', 'config']:
+# Carpetas sincronizables
+for category in ['mods', 'config', 'animations', 'fancymenu_data']:
     cat_dir = os.path.join(sync_dir, category)
     if os.path.exists(cat_dir):
         for root, dirs, files in os.walk(cat_dir):
@@ -33,6 +33,18 @@ for category in ['mods', 'animations', 'config']:
                 if rel_path in EXTERNAL_URLS:
                     item_data['url'] = EXTERNAL_URLS[rel_path]
                 files_manifest.append(item_data)
+
+# Archivos de raiz sincronizables
+for root_file in ['servers.dat', 'options.txt']:
+    full_path = os.path.join(sync_dir, root_file)
+    if os.path.exists(full_path):
+        rel_path = root_file
+        item_data = {
+            'path': rel_path,
+            'size': os.path.getsize(full_path),
+            'sha1': get_sha1(full_path)
+        }
+        files_manifest.append(item_data)
 
 whitelist = []
 if os.path.exists(whitelist_path):
