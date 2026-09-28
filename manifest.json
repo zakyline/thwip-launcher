@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "gameVersion": "1.21.1",
   "loaderVersion": "0.16.10",
-  "totalFiles": 190,
+  "totalFiles": 191,
   "files": [
     {
       "path": "mods/architectury-13.0.8.jar",
@@ -86,8 +86,8 @@
     },
     {
       "path": "mods/eventos-1.0.0.jar",
-      "size": 5435514,
-      "sha1": "7e679a41e1d7599568e587609521f9965d776a9d"
+      "size": 5371894,
+      "sha1": "a42676303052272d71c71186fc8f71264addad10"
     },
     {
       "path": "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
@@ -347,33 +347,33 @@
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "size": 1281,
-      "sha1": "57ab4afeb9327fc6cac376ed7e718decac33dedd"
+      "size": 1343,
+      "sha1": "97c56c2e7fc7ccd780442492bc8a3bc5bc41f948"
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
-      "size": 51,
-      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+      "size": 56,
+      "sha1": "9ce5c1175354110a8b9f044ac0029be7f57c209b"
     },
     {
       "path": "config/fancymenu/legacy_checklist.txt",
-      "size": 42,
-      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+      "size": 44,
+      "sha1": "864461529224648d48bdb285baa4ed8cbe57a382"
     },
     {
       "path": "config/fancymenu/normalized_scroll_screens.json",
-      "size": 54,
-      "sha1": "9891d70e1a4c50a807f1efe71888ecba15e37750"
+      "size": 57,
+      "sha1": "8efe5949316ed8525b6f95ae62273df47b889334"
     },
     {
       "path": "config/fancymenu/options.txt",
-      "size": 4399,
-      "sha1": "623589341b4dbefd67773b4cd67a93d562b4731c"
+      "size": 4553,
+      "sha1": "5e6a57d34269025e220222d36182829190e88079"
     },
     {
       "path": "config/fancymenu/user_variables.db",
-      "size": 190,
-      "sha1": "5a2180ad7a96ef4e166cdd6d7bd65def053110b9"
+      "size": 204,
+      "sha1": "a7ddb636e1dfc6ad62aace4550f5255935960819"
     },
     {
       "path": "config/fancymenu/assets/air.png",
@@ -642,218 +642,223 @@
     },
     {
       "path": "config/fancymenu/customization/accessibility_options_screen_layout_adventure.txt",
-      "size": 7427,
-      "sha1": "2d1aa41f5cd895c32d18a418434a24746cd6e11e"
+      "size": 7636,
+      "sha1": "c8706859546f984268f11f7c86eb8abd3a36bc19"
     },
     {
       "path": "config/fancymenu/customization/accessibility_options_screen_layout_minimalist.txt",
-      "size": 7442,
-      "sha1": "9cb31418949818aee71ea63b05bb650f1f3f013c"
+      "size": 7651,
+      "sha1": "24b4798a94a2612a7957e1ffff6911155e39d0b0"
     },
     {
       "path": "config/fancymenu/customization/advancements_screen_layout_adventure.txt",
-      "size": 9568,
-      "sha1": "8c32adaf7cf12d183513e9e38b2406e55229fe77"
+      "size": 9836,
+      "sha1": "6c144b33992822f899855e4df34898cc298bda8a"
     },
     {
       "path": "config/fancymenu/customization/advancements_screen_layout_minimalist.txt",
-      "size": 9584,
-      "sha1": "cbde8179c3fd2e8b54028705d51430f4362f3aba"
+      "size": 9852,
+      "sha1": "718fc7a48b494c943d8cde6899fd07bfc3cbe4db"
     },
     {
       "path": "config/fancymenu/customization/adventure_hud.txt",
-      "size": 79511,
-      "sha1": "e3f3ef657f67ff6b0e0419a866dd38a191d3778d"
+      "size": 81879,
+      "sha1": "a216e5739d7e61d73978cc04826d69180b479446"
     },
     {
       "path": "config/fancymenu/customization/chat_options_screen_layout_adventure.txt",
-      "size": 5268,
-      "sha1": "8e84ec66cd40daf1feb34241b5389d742c8a4181"
+      "size": 5418,
+      "sha1": "6275bab43eae6118fcfdc61f772ca218285b7eb3"
     },
     {
       "path": "config/fancymenu/customization/chat_options_screen_layout_minimalist.txt",
-      "size": 5276,
-      "sha1": "ef1d3c39e6ce1c41609348dfde7486de6e7d331d"
+      "size": 5426,
+      "sha1": "4fcc4e95e1dc277ecac3aa11b10995f622521d67"
     },
     {
       "path": "config/fancymenu/customization/controls_screen_layout_adventure.txt",
-      "size": 5264,
-      "sha1": "c284cd706b228a122e09a0808a58532ef367d62b"
+      "size": 5414,
+      "sha1": "0f56ec69275356572e302295cfc2245743d26cf2"
     },
     {
       "path": "config/fancymenu/customization/controls_screen_layout_minimalist.txt",
-      "size": 5272,
-      "sha1": "61223ce6affa8d6c11297a2cc7e03902caffa167"
+      "size": 5422,
+      "sha1": "838f921ce7b9a652c95414b1b1f85e2d5dab78fe"
     },
     {
       "path": "config/fancymenu/customization/creative_mode_inventory_screen_layout.txt",
-      "size": 60976,
-      "sha1": "3db221d2fd41c2640e1ca2d5777f2f90da438530"
+      "size": 62729,
+      "sha1": "c3dad210cc61ff62d5b0ddc54ad544303de4c558"
     },
     {
       "path": "config/fancymenu/customization/credits_and_attribution_screen_layout_adventure.txt",
-      "size": 11491,
-      "sha1": "effc1adf3dc43deab47caa8a4feb137bef996399"
+      "size": 11817,
+      "sha1": "6598d8491248c3a31c726619dd233bf033c128ef"
     },
     {
       "path": "config/fancymenu/customization/credits_and_attribution_screen_layout_minimalist.txt",
-      "size": 11755,
-      "sha1": "7e582a4c72ab3369e121fa208f2fe79b722779f1"
+      "size": 12082,
+      "sha1": "1e9ce88527a279c339b816c6efaf3e309d2af339"
     },
     {
       "path": "config/fancymenu/customization/FPS_Friendly.txt",
-      "size": 34727,
-      "sha1": "3655d2141a4980e27bb90d908be18d170cc98f25"
+      "size": 35729,
+      "sha1": "22618f90a0bf67f252b3b80147e2f75fb2820765"
     },
     {
       "path": "config/fancymenu/customization/inventory_screen_layout.txt",
-      "size": 22560,
-      "sha1": "c7d864e1e4bb4fe875fb83456771de3112396c59"
+      "size": 23220,
+      "sha1": "a4f881498789ce08c565839c0438dac63d190e62"
     },
     {
       "path": "config/fancymenu/customization/language_select_screen_layout_minimalist.txt",
-      "size": 9407,
-      "sha1": "e2a6b3eea7b81e4829c3c53310ab2107c57c004b"
+      "size": 9673,
+      "sha1": "6b6d3d0beebb14ae8c3f2de047ae758238aa6339"
     },
     {
       "path": "config/fancymenu/customization/mainmenu.txt",
-      "size": 54340,
-      "sha1": "b37870ab29d580fc12d7c35be7841bca950896bf"
+      "size": 55951,
+      "sha1": "5bcea4800343d4686a1c62ad1c7ae54527afabf6"
     },
     {
       "path": "config/fancymenu/customization/net.neoforged.neoforge.client.gui.modlistscreen_layout_adventure.txt",
-      "size": 16023,
-      "sha1": "64af6472599c418ca72659d019cca43a2dd7f0e8"
+      "size": 16468,
+      "sha1": "de4ad1e2d099ebb6cef3cd300d6391ed1a897534"
     },
     {
       "path": "config/fancymenu/customization/net.neoforged.neoforge.client.gui.modlistscreen_layout_minimalist.txt",
-      "size": 16060,
-      "sha1": "a272b3f1df159c6a1d85f0277a1c8953ba4325f4"
+      "size": 16505,
+      "sha1": "bc626c7a5e5d7c3fe6f51b18d59cb57707fb77d3"
     },
     {
       "path": "config/fancymenu/customization/options_screen_layout_adventure.txt",
-      "size": 33253,
-      "sha1": "d6db74ed2f67f62c112db851e44e2849191d050c"
+      "size": 34170,
+      "sha1": "e234270b4cce51e2d8643673c428499b63fb8656"
     },
     {
       "path": "config/fancymenu/customization/options_screen_layout_minimalist.txt",
-      "size": 33300,
-      "sha1": "73a0f225e50d60f6cd94c7daf51306343d9a431e"
+      "size": 34217,
+      "sha1": "2cffb618a57d883e5c96c17e6ca29b77288e2a03"
     },
     {
       "path": "config/fancymenu/customization/pause_screen_layout_adventure.txt",
-      "size": 36726,
-      "sha1": "f9c4486058f4a913de9c67e3c2f5221672009529"
+      "size": 37756,
+      "sha1": "ca2beffe17d4f0bb96676130d0a2098dc31188b4"
     },
     {
       "path": "config/fancymenu/customization/pause_screen_layout_minimalist.txt",
-      "size": 27080,
-      "sha1": "be83bf5fccd335aefbde453ebdcce9a6b4aeb753"
+      "size": 27822,
+      "sha1": "dd81b4a0f93e357d97b3002e8917055300a0e5b0"
     },
     {
       "path": "config/fancymenu/customization/pause_screen_layout_vanilla.txt",
-      "size": 25197,
-      "sha1": "ec5c803ea75d459a56f30d43ec9975d280933de7"
+      "size": 25916,
+      "sha1": "78c339a67bb271acb88ddf564337b37ca47351a7"
     },
     {
       "path": "config/fancymenu/customization/select_world_screen_layouts_adventure.txt",
-      "size": 14007,
-      "sha1": "b6828b163279771106e903d4104cc9dbd1700238"
+      "size": 14395,
+      "sha1": "e686ee048086779e748a4091c36de7d1be6801c5"
     },
     {
       "path": "config/fancymenu/customization/select_world_screen_layout_minimalist.txt",
-      "size": 14056,
-      "sha1": "d4a2caf0e10815c24f710b39521d9e3457a32166"
+      "size": 14444,
+      "sha1": "e18b068fc2bff97815cf980193b0e8bf69661756"
     },
     {
       "path": "config/fancymenu/customization/share_to_lan_screen_layout_adventure.txt",
-      "size": 11726,
-      "sha1": "614d614323d76fbbf807c71b15d00f92fc43ce82"
+      "size": 12053,
+      "sha1": "b3f020ac308855c683a7d75df29abe1403be708d"
     },
     {
       "path": "config/fancymenu/customization/share_to_lan_screen_layout_minimalist.txt",
-      "size": 11749,
-      "sha1": "dc4abe94bc4e9be3cc27e2822459c8e41bfa24d6"
+      "size": 12076,
+      "sha1": "436a798d442e7dbf2f763dbf6206f39a49c931a5"
     },
     {
       "path": "config/fancymenu/customization/skin_customization_screen_layout_adventure.txt",
-      "size": 7247,
-      "sha1": "b294acb5d5930fb59ca95e337188bf90ca8cd1b8"
+      "size": 7454,
+      "sha1": "c63ba984c5eb670da1bcd13e4b66cd1adea68be8"
     },
     {
       "path": "config/fancymenu/customization/sound_options_screen_layout_adventure.txt",
-      "size": 5270,
-      "sha1": "fbfbf9eb912e9d517aa63a7beefa6cf6a157aadb"
+      "size": 5420,
+      "sha1": "2e8b7f0edb528ed61fd608f500e52b9183b86960"
     },
     {
       "path": "config/fancymenu/customization/sound_options_screen_layout_minimalist.txt",
-      "size": 5278,
-      "sha1": "beae6323088628f6e581b60100d760e4068f8a27"
+      "size": 5428,
+      "sha1": "dc654324fabbd8daaa72fa0639337aa8d8fd12d9"
     },
     {
       "path": "config/fancymenu/customization/spiffy_overlay_layout_minimalist.txt",
-      "size": 76937,
-      "sha1": "6de86878add4dd784aaaeead8a472ec31715662e"
+      "size": 79221,
+      "sha1": "ed6ce2f3ec421adbdd46fe0a4cfb344e275ed583"
     },
     {
       "path": "config/fancymenu/customization/stats_screen_layout_adventure.txt",
-      "size": 11716,
-      "sha1": "231da0a1d5e275a3d9abff6f34842818bad373b0"
+      "size": 12043,
+      "sha1": "868275e051867f8105357f7c6761a06fbadf61cc"
     },
     {
       "path": "config/fancymenu/customization/stats_screen_layout_minimalist.txt",
-      "size": 11739,
-      "sha1": "1adce0f45ba5a13903b9a21b38aa7b4450a6d8c1"
+      "size": 12066,
+      "sha1": "cf99440c4a9c5b21338b6fde9c859d0efa84dca8"
     },
     {
       "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "size": 204,
-      "sha1": "4b3453eb889cc44aacb313704d6abe4f92205600"
+      "size": 216,
+      "sha1": "83d53fc9d0df4803b1f18d55f525593e1ed3a113"
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",
-      "size": 9349,
-      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+      "size": 9722,
+      "sha1": "40542c7a0a1b42ceba29b3514b61d6f2eb2c3c44"
     },
     {
       "path": "config/fancymenu/ui_themes/cozy_campfire.json",
-      "size": 9347,
-      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+      "size": 9720,
+      "sha1": "49a7be6dde748fb29eeed8d552c410a8c222c001"
     },
     {
       "path": "config/fancymenu/ui_themes/dark.json",
-      "size": 9329,
-      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+      "size": 9702,
+      "sha1": "60dde7408c5e4f625ee0c3b8b6deff7294a6b2fa"
     },
     {
       "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
-      "size": 9359,
-      "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+      "size": 9732,
+      "sha1": "54a08d8d56dc1d65aed4843bb3d5d86beb09f831"
     },
     {
       "path": "config/fancymenu/ui_themes/light.json",
-      "size": 9331,
-      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+      "size": 9704,
+      "sha1": "7880bf2d99e2cc16b593a4c5f331e992856b1f0e"
     },
     {
       "path": "config/fancymenu/ui_themes/light_high_contrast.json",
-      "size": 9361,
-      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+      "size": 9734,
+      "sha1": "5e3d25e262afcecfd51947fe14bfbf864c41cfaf"
     },
     {
       "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
-      "size": 9345,
-      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+      "size": 9718,
+      "sha1": "5c8a6560e0c1b542fb2bc125a3a5d5ea56ddeb82"
     },
     {
       "path": "config/fancymenu/ui_themes/purple_void.json",
-      "size": 9343,
-      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+      "size": 9716,
+      "sha1": "ae9437906d6b3936e35b65457c8d23ca24594687"
     },
     {
       "path": "config/fancymenu/ui_themes/spooky_season.json",
-      "size": 9347,
-      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+      "size": 9720,
+      "sha1": "1b42b3d135704f47c4c3270b71681315cbb1ec80"
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "size": 3248,
+      "sha1": "d49eb952ba3c5efded5126b43dc0a64ba1aaf364"
     },
     {
       "path": "config/yosbr/options.txt",
@@ -932,18 +937,18 @@
     },
     {
       "path": "fancymenu_data/last_world.fmdata",
-      "size": 95,
-      "sha1": "688aa800e0c7f9e8494422806f0751e415cb24ad"
+      "size": 102,
+      "sha1": "a9e7ed48ac62bbb8dbfe7141f373bce2e39d1f2b"
     },
     {
       "path": "fancymenu_data/buddy/buddy_leveling_ZTg3MGI4NDctOWFiZS00Y2I0LTg1YmMtMmI3OGZiMDQ2YzE3LTE3OTAzNTQzMDk4MTA.json",
-      "size": 1619,
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305"
+      "size": 1700,
+      "sha1": "1c651011813e15b8ff2bfc2c51c102406b0aaebd"
     },
     {
       "path": "fancymenu_data/buddy/buddy_save_ZTg3MGI4NDctOWFiZS00Y2I0LTg1YmMtMmI3OGZiMDQ2YzE3LTE3OTAzNTQzMDk4MTA.json",
-      "size": 380,
-      "sha1": "4ec33d9aeedc1fce83078c69653491c8dcee6ca3"
+      "size": 398,
+      "sha1": "8706990550a0adb825a647e6c1d64f01c8e00965"
     },
     {
       "path": "servers.dat",
