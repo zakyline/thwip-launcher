@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/otter/otter_unicorn.geo.json",
+  "texture": "models/overlay/otter/otter_unicorn.png",
+  "render_layer": "entityTranslucent"
+}

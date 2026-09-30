@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_dimensional_2/parce_feet_dimensional.geo.json",
+  "texture": "models/overlay/armor_dimensional_2/parce_dimensional.png",
+  "render_layer": "entityTranslucent"
+}

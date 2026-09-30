@@ -1,0 +1,53 @@
+{
+  "animations": "animations/disguise/rol_frog.animation.json",
+  "model": "models/disguise/rol_frog_flower.geo.json",
+  "texture": "models/disguise/rol_frog_flower.png",
+  "render_layer": "entityTranslucent",
+  "anim_controllers": [
+    {
+      "name": "basic_emote"
+    },
+    {
+      "name": "basic_pose"
+    },
+    {
+      "name": "basic_idle",
+      "suppressable": false
+    },
+    {
+      "name": "basic_override"
+    },
+    {
+      "name": "basic_arm_left"
+    },
+    {
+      "name": "basic_arm_right"
+    },
+    {
+      "name": "emote_hunter"
+    },
+    {
+      "name": "emote_weapon"
+    } 
+   ],
+  "static_overlays": [
+    
+  ],
+  "helmet_overlays": {
+
+    
+  },
+  "chestplate_overlays": {
+    
+  },
+  "leggings_overlays": {
+    
+  },
+  "boots_overlays": {
+    
+  },
+  "left_item_bones": ["left_hand_item"],
+  "right_item_bones": ["right_hand_item"],
+  "model_scale": 0.9375,
+  "motion_threshold": 0.1
+}

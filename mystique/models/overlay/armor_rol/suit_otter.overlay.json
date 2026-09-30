@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_rol/otter_suit.geo.json",
+  "texture": "models/overlay/armor_rol/otter_suit.png",
+  "render_layer": "entityTranslucent"
+}

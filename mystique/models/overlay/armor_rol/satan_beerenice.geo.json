@@ -1,0 +1,73 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "waist",
+					"parent": "root",
+					"pivot": [0, 2, 0]
+				},
+				{
+					"name": "body",
+					"parent": "waist",
+					"pivot": [0, 2.5, 4],
+					"cubes": [
+						{"origin": [-7.5, 2, -7], "size": [15, 13, 15], "inflate": 0.2, "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "left_arm",
+					"parent": "body",
+					"pivot": [4.5, 2, -4.5]
+				},
+				{
+					"name": "right_arm",
+					"parent": "body",
+					"pivot": [-4.5, 2, -4.5]
+				},
+				{
+					"name": "head",
+					"parent": "body",
+					"pivot": [0, 8, -7.075],
+					"cubes": [
+						{"origin": [-5.5, 9, -9.5], "size": [11, 5, 1], "inflate": 0.2, "uv": [27, 29]},
+						{"origin": [-6.7, 12.2, -9], "size": [13, 7, 0], "uv": [0, 29]}
+					]
+				},
+				{
+					"name": "bone7",
+					"parent": "head",
+					"pivot": [-5, 9, -8.5]
+				},
+				{
+					"name": "bone9",
+					"parent": "head",
+					"pivot": [5, 9, -8.5]
+				},
+				{
+					"name": "left_leg",
+					"parent": "body",
+					"pivot": [4.5, 2, 4.5]
+				},
+				{
+					"name": "right_leg",
+					"parent": "body",
+					"pivot": [-4.5, 2, 4.5]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_extra/yellow_mask.geo.json",
+  "texture": "models/overlay/armor_extra/yellow_mask.png",
+  "render_layer": "entityTranslucent"
+}

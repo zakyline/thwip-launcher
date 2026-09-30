@@ -1,0 +1,56 @@
+{
+  "animations": "animations/player_extended.animation.json",
+  "model": "models/player_dimensional.geo.json",
+  "model_slim": "models/player_dimensional.geo.json",
+  "render_layer": "entityTranslucent",
+  
+    "anim_controllers": [
+    {
+      "name": "basic_emote"
+    },
+    {
+      "name": "extended_pose"
+    },
+    {
+      "name": "basic_idle",
+      "suppressable": false
+    },
+    {
+      "name": "basic_override"
+    },
+    {
+      "name": "basic_arm_left"
+    },
+    {
+      "name": "basic_arm_right"
+    },
+    {
+      "name": "emote_hunter"
+    },
+    {
+      "name": "emote_weapon"
+    } 
+   ],
+  "static_overlays": ["models/overlay/armor_dimensional_2/player_head_dimensional.overlay.json",
+  "models/overlay/armor_dimensional_2/player_chest_dimensional.overlay.json",
+  "models/overlay/armor_dimensional_2/player_leggings_dimensional.overlay.json",
+  "models/overlay/armor_dimensional_2/player_feet_dimensional.overlay.json",
+  "models/overlay/armor_dimensional_2/player_feet_fire_dimensional.overlay.json"
+    
+  ],
+  "helmet_overlays": {
+
+    
+  },
+  "chestplate_overlays": {
+  },
+  "leggings_overlays": {
+  },
+  "boots_overlays": {
+    
+  },
+  "left_item_bones": ["left_hand_item"],
+  "right_item_bones": ["right_hand_item"],
+  "model_scale": 0.9375,
+  "motion_threshold": 0.1
+}

@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_otter/armor_legs_otter.geo.json",
+  "texture": "models/overlay/armor_otter/leather_layer_2.png",
+  "render_layer": "entityTranslucent"
+}

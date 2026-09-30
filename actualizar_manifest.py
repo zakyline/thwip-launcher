@@ -18,7 +18,7 @@ EXTERNAL_URLS = {
 files_manifest = []
 
 # Carpetas sincronizables
-for category in ['mods', 'config', 'animations', 'fancymenu_data']:
+for category in ['mods', 'config', 'animations', 'fancymenu_data', 'resourcepacks', 'mystique']:
     cat_dir = os.path.join(sync_dir, category)
     if os.path.exists(cat_dir):
         for root, dirs, files in os.walk(cat_dir):
@@ -55,7 +55,7 @@ if os.path.exists(whitelist_path):
         pass
 
 manifest_data = {
-    'version': '1.0.0',
+    'version': (json.load(open(manifest_path, 'r', encoding='utf-8')).get('version', '1.0.9') if os.path.exists(manifest_path) else '1.0.9'),
     'gameVersion': '1.21.1',
     'loaderVersion': '0.16.10',
     'totalFiles': len(files_manifest),

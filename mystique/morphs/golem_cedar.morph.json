@@ -1,0 +1,47 @@
+{
+  "animations": "animations/disguise/golem_cedar.animation.json",
+  "model": "models/disguise/golem_cedar.geo.json",
+  "texture": "models/disguise/golem_cedar.png",
+  "render_layer": "entityTranslucent",
+  
+    "anim_controllers": [
+    {
+      "name": "basic_emote"
+    },
+    {
+      "name": "extended_pose"
+    },
+    {
+      "name": "basic_idle",
+      "suppressable": false
+    },
+    {
+      "name": "basic_override"
+    },
+    {
+      "name": "basic_arm_left"
+    },
+    {
+      "name": "basic_arm_right"
+    },
+    {
+      "name": "divine_emote" 
+    }
+  ],
+  "static_overlays": [],
+  "helmet_overlays": {
+  },
+  "chestplate_overlays": {
+    
+  },
+  "leggings_overlays": {
+    
+  },
+  "boots_overlays": {
+    
+  },
+  "left_item_bones": ["left_hand_item"],
+  "right_item_bones": ["right_hand_item"],
+  "model_scale": 0.3,
+  "motion_threshold": 0.1
+}

@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_rol/suit_churro.geo.json",
+  "texture": "models/overlay/armor_rol/suit_churro.png",
+  "render_layer": "entityTranslucent"
+}

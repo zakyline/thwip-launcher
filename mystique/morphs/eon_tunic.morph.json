@@ -1,0 +1,51 @@
+{
+  "animations": "animations/disguise/eon_noshell.animation.json",
+  "model": "models/disguise/eon/tunic.geo.json",
+  "texture": "models/disguise/eon/tunic.png",
+  "render_layer": "entityTranslucent",
+  
+    "anim_controllers": [
+    {
+      "name": "basic_emote"
+    },
+    {
+      "name": "extended_pose"
+    },
+    {
+      "name": "basic_idle",
+      "suppressable": false
+    },
+    {
+      "name": "basic_override"
+    },
+    {
+      "name": "basic_arm_left"
+    },
+    {
+      "name": "basic_arm_right"
+    },
+    {
+      "name": "divine_emote" 
+    }
+  ],
+  "static_overlays": [],
+  "helmet_overlays": {
+    "minecraft:chainmail_helmet": "models/overlay/ogre_armor_head.overlay.json",
+    "minecraft:white_wool": "models/overlay/western_hat_white.overlay.json",
+    "minecraft:black_wool": "models/overlay/western_hat_black.overlay.json",
+    "minecraft:brown_wool": "models/overlay/western_hat_brown.overlay.json"
+  },
+  "chestplate_overlays": {
+    "minecraft:chainmail_chestplate": "models/overlay/ogre_armor_chest.overlay.json"
+  },
+  "leggings_overlays": {
+    "minecraft:chainmail_leggings": "models/overlay/ogre_armor_legs.overlay.json"
+  },
+  "boots_overlays": {
+    "minecraft:chainmail_boots": "models/overlay/ogre_armor_feet.overlay.json"
+  },
+  "left_item_bones": ["left_hand_item"],
+  "right_item_bones": ["right_hand_item"],
+  "model_scale": 0.9375,
+  "motion_threshold": 0.1
+}

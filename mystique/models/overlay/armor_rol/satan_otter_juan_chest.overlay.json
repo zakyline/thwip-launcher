@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_rol/satan_otter_juan.geo.json",
+  "texture": "models/overlay/armor_rol/satan_otter_juan.png",
+  "render_layer": "entityTranslucent"
+}

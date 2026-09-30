@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_rol/satan_beerenice.geo.json",
+  "texture": "models/overlay/armor_rol/satan_beerenice.png",
+  "render_layer": "entityTranslucent"
+}

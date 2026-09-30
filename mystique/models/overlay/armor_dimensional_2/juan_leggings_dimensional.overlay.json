@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_dimensional_2/juan_leggings_dimensional.geo.json",
+  "texture": "models/overlay/armor_dimensional_2/juan_dimensional.png",
+  "render_layer": "entityTranslucent"
+}

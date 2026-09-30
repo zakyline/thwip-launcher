@@ -1,0 +1,5 @@
+{
+  "default_morph": "player",
+  "apply_on_join": true,
+  "revert_to_default_on_clear": true
+}

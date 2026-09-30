@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_rol/suit_mapache.geo.json",
+  "texture": "models/overlay/armor_rol/suit_mapache.png",
+  "render_layer": "entityTranslucent"
+}

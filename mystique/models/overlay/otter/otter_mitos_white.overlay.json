@@ -1,0 +1,5 @@
+{
+  "model": "models/disguise/otter/otter_arycer.geo.json",
+  "texture": "models/overlay/otter/otter_mitos_white.png",
+  "render_layer": "otter_space_aurora"
+}

@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor/elytra.geo.json",
+  "texture": "models/overlay/armor/elytra.png",
+  "render_layer": "entityTranslucent"
+}

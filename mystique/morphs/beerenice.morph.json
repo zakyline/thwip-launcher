@@ -1,0 +1,99 @@
+{
+  "animations": "animations/disguise/beerenice.animation.json",
+  "model": "models/disguise/beerenice.geo.json",
+  "texture": "models/disguise/beerenice.png",
+  "render_layer": "entityTranslucent",
+  
+    "anim_controllers": [
+    {
+      "name": "basic_emote"
+    },
+    {
+      "name": "basic_pose"
+    },
+    {
+      "name": "basic_idle",
+      "suppressable": false
+    },
+    {
+      "name": "basic_override"
+    },
+    {
+      "name": "basic_arm_left"
+    },
+    {
+      "name": "basic_arm_right"
+    },
+    {
+      "name": "emote_hunter"
+    },
+    {
+      "name": "emote_weapon"
+    } 
+   ],
+  "static_overlays": [
+  ""
+],
+"helmet_overlays": {
+  "minecraft:diamond_helmet": "models/overlay/armor/diamond_head.overlay.json",
+  "minecraft:iron_helmet": "models/overlay/armor/iron_head.overlay.json",
+  "minecraft:golden_helmet": "models/overlay/armor/gold_head.overlay.json",
+  "minecraft:chainmail_helmet": "models/overlay/armor/chainmail_head.overlay.json",
+  "minecraft:netherite_helmet": "models/overlay/armor/netherite_head.overlay.json",
+  "minecraft:leather_helmet": "models/overlay/armor/leather_head.overlay.json",
+  "minecraft:turtle_helmet": "models/overlay/armor/turtle_head.overlay.json",
+  "eufoniaitems:night_vision_helmet": "models/overlay/night_vision.overlay.json",
+  "eufoniaitems:heat_vision_helmet": "models/overlay/heat_vision.overlay.json",
+  "eufoniaitems:diving_kit_helmet": "models/overlay/diving_kit.overlay.json",
+  "eufoniaitems:tinfoil_hat_helmet": "models/overlay/tinfoil_hat.overlay.json",
+  "itemeufonia:rabanagua_armor_helmet": "models/overlay/armor/rabanagua_armor_head.overlay.json",
+  "itemeufonia:dimensional_armor_helmet": "models/overlay/armor_dimensional/sheep_head_dimensional.overlay.json",
+  "itemeufonia:dimensional_armor_2_helmet": "models/overlay/armor_dimensional_2/sheep_head_dimensional.overlay.json",
+  "itemeufonia:infernal_armor_helmet": "models/overlay/armor/infernal_armor_head.overlay.json",
+  "friendsandfoes:wildfire_crown": "models/overlay/armor/wildfire_armor_head.overlay.json",
+    "itemeufonia:crown_armor_helmet": "models/overlay/armor/golden_crown.overlay.json",
+    "itemeufonia:birthday_armor_helmet": "models/overlay/armor/birthday_head.overlay.json"
+
+},
+"chestplate_overlays": {
+  "minecraft:diamond_chestplate": "models/overlay/armor/diamond_chest.overlay.json",
+  "minecraft:iron_chestplate": "models/overlay/armor/iron_chest.overlay.json",
+  "minecraft:golden_chestplate": "models/overlay/armor/gold_chest.overlay.json",
+  "minecraft:chainmail_chestplate": "models/overlay/armor/chainmail_chest.overlay.json",
+  "minecraft:netherite_chestplate": "models/overlay/armor/netherite_chest.overlay.json",
+  "minecraft:leather_chestplate": "models/overlay/armor/leather_chest.overlay.json",
+  "eufoniaitems:parachute_chestplate": "models/overlay/parachute.overlay.json",
+  "itemeufonia:rabanagua_armor_chestplate": "models/overlay/armor/rabanagua_armor_chest.overlay.json",
+  "itemeufonia:dimensional_armor_chestplate": "models/overlay/armor_dimensional/sheep_chest_dimensional.overlay.json",
+  "itemeufonia:dimensional_armor_2_chestplate": "models/overlay/armor_dimensional_2/sheep_chest_dimensional.overlay.json",
+  "itemeufonia:infernal_armor_chestplate": "models/overlay/armor/infernal_armor_chest.overlay.json",
+    "itemeufonia:suit_armor_chestplate": "models/overlay/armor_rol/suit_sheep.overlay.json",
+    "itemeufonia:demon_armor_chestplate": "models/overlay/armor_rol/satan_beerenice_chest.overlay.json"
+},
+"leggings_overlays": {
+  "minecraft:diamond_leggings": "models/overlay/armor/diamond_legs.overlay.json",
+  "minecraft:iron_leggings": "models/overlay/armor/iron_legs.overlay.json",
+  "minecraft:golden_leggings": "models/overlay/armor/gold_legs.overlay.json",
+  "minecraft:chainmail_leggings": "models/overlay/armor/chainmail_legs.overlay.json",
+  "minecraft:netherite_leggings": "models/overlay/armor/netherite_legs.overlay.json",
+  "minecraft:leather_leggings": "models/overlay/armor/leather_legs.overlay.json",
+  "itemeufonia:rabanagua_armor_leggings": "models/overlay/armor/rabanagua_armor_legs.overlay.json",
+  "itemeufonia:dimensional_armor_leggings": "models/overlay/armor_dimensional/sheep_leggings_dimensional.overlay.json",
+  "itemeufonia:dimensional_armor_2_leggings": "models/overlay/armor_dimensional_2/sheep_leggings_dimensional.overlay.json",
+  "itemeufonia:infernal_armor_leggings": "models/overlay/armor/infernal_armor_legs.overlay.json"
+},
+"boots_overlays": {
+  "minecraft:diamond_boots": "models/overlay/armor/diamond_feet.overlay.json",
+  "minecraft:iron_boots": "models/overlay/armor/iron_feet.overlay.json", 
+  "minecraft:golden_boots": "models/overlay/armor/gold_feet.overlay.json",
+  "minecraft:chainmail_boots": "models/overlay/armor/chainmail_feet.overlay.json",
+  "minecraft:netherite_boots": "models/overlay/armor/netherite_feet.overlay.json",
+  "minecraft:leather_boots": "models/overlay/armor/leather_feet.overlay.json",
+  "itemeufonia:rabanagua_armor_boots": "models/overlay/armor/rabanagua_armor_feet.overlay.json",
+  "itemeufonia:infernal_armor_boots": "models/overlay/armor/infernal_armor_feet.overlay.json"
+},
+  "left_item_bones": ["left_hand_item"],
+  "right_item_bones": ["right_hand_item"],
+  "model_scale": 0.9375,
+  "motion_threshold": 0.1
+}

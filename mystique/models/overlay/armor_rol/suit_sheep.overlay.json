@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_rol/suit_sheep_player.geo.json",
+  "texture": "models/overlay/armor_rol/suit_sheep.png",
+  "render_layer": "entityTranslucent"
+}

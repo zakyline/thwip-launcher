@@ -1,0 +1,91 @@
+{
+  "animations": "animations/disguise/otter.animation.json",
+  "model": "models/disguise/otter/otter_carlitos.geo.json",
+  "texture": "models/disguise/otter/otter_carlitos.png",
+  "render_layer": "entityTranslucent",
+  "anim_controllers": [
+    {
+      "name": "basic_emote"
+    },
+    {
+      "name": "basic_pose"
+    },
+    {
+      "name": "basic_idle",
+      "suppressable": false
+    },
+    {
+      "name": "basic_override"
+    },
+    {
+      "name": "basic_arm_left"
+    },
+    {
+      "name": "basic_arm_right"
+    }
+  ],
+  "static_overlays": [],
+  "helmet_overlays": {
+    "minecraft:diamond_helmet": "models/overlay/armor_otter/diamond_head_otter.overlay.json",
+    "minecraft:iron_helmet": "models/overlay/armor_otter/iron_head_otter.overlay.json",
+    "minecraft:golden_helmet": "models/overlay/armor_otter/gold_head_otter.overlay.json",
+    "minecraft:chainmail_helmet": "models/overlay/armor_otter/chainmail_head_otter.overlay.json",
+    "minecraft:netherite_helmet": "models/overlay/armor_otter/netherite_head_otter.overlay.json",
+    "minecraft:leather_helmet": "models/overlay/armor_otter/leather_head_otter.overlay.json",
+    "minecraft:turtle_helmet": "models/overlay/armor_otter/turtle_head_otter.overlay.json",
+    "friendsandfoes:wildfire_crown": "models/overlay/armor_otter/wildfire_head_otter.overlay.json",
+    "itemeufonia:crown_armor_helmet": "models/overlay/armor_otter/crown_head_otter.overlay.json",
+    "itemeufonia:rabanagua_armor_helmet": "models/overlay/armor_otter/rabanagua_head_otter.overlay.json",
+    "itemeufonia:dimensional_armor_helmet": "models/overlay/armor_otter/dimensional_head_otter.overlay.json",
+    "itemeufonia:infernal_armor_helmet": "models/overlay/armor_otter/infernal_head_otter.overlay.json",
+    "itemeufonia:tinfoil_hat_helmet": "models/overlay/armor_rol/otter_tinfoil_hat.overlay.json",
+    "itemeufonia:birthday_armor_helmet": "models/overlay/armor_rol/otter_birthday_head.overlay.json",
+    "itemeufonia:infernal2_armor_helmet": "models/overlay/armor_otter/infernal2_head_otter.overlay.json",
+    "itemeufonia:yellow_armor_helmet": "models/overlay/armor_otter/yellow_head_otter.overlay.json"
+
+
+  },
+  "chestplate_overlays": {
+    "minecraft:diamond_chestplate": "models/overlay/armor_otter/diamond_chest_otter.overlay.json",
+    "minecraft:iron_chestplate": "models/overlay/armor_otter/iron_chest_otter.overlay.json",
+    "minecraft:golden_chestplate": "models/overlay/armor_otter/gold_chest_otter.overlay.json",
+    "minecraft:chainmail_chestplate": "models/overlay/armor_otter/chainmail_chest_otter.overlay.json",
+    "minecraft:netherite_chestplate": "models/overlay/armor_otter/netherite_chest_otter.overlay.json",
+    "minecraft:leather_chestplate": "models/overlay/armor_otter/leather_chest_otter.overlay.json",
+    "itemeufonia:rabanagua_armor_chestplate": "models/overlay/armor_otter/rabanagua_chest_otter.overlay.json",
+    "itemeufonia:dimensional_armor_chestplate": "models/overlay/armor_otter/dimensional_chest_otter.overlay.json",
+    "itemeufonia:infernal_armor_chestplate": "models/overlay/armor_otter/infernal_chest_otter.overlay.json",
+    "itemeufonia:suit_armor_chestplate": "models/overlay/armor_rol/suit_otter.overlay.json",
+    "itemeufonia:infernal2_armor_chestplate": "models/overlay/armor_otter/infernal2_chest_otter.overlay.json",
+    "itemeufonia:yellow_armor_chestplate": "models/overlay/armor_otter/yellow_chest_otter.overlay.json"
+
+  },
+  "leggings_overlays": {
+    "minecraft:diamond_leggings": "models/overlay/armor_otter/diamond_legs_otter.overlay.json",
+    "minecraft:iron_leggings": "models/overlay/armor_otter/iron_legs_otter.overlay.json",
+    "minecraft:golden_leggings": "models/overlay/armor_otter/gold_legs_otter.overlay.json",
+    "minecraft:chainmail_leggings": "models/overlay/armor_otter/chainmail_legs_otter.overlay.json",
+    "minecraft:netherite_leggings": "models/overlay/armor_otter/netherite_legs_otter.overlay.json",
+    "minecraft:leather_leggings": "models/overlay/armor_otter/leather_legs_otter.overlay.json",
+    "itemeufonia:rabanagua_armor_leggings": "models/overlay/armor_otter/rabanagua_legs_otter.overlay.json",
+    "itemeufonia:dimensional_armor_leggings": "models/overlay/armor_otter/dimensional_legs_otter.overlay.json",
+    "itemeufonia:infernal_armor_leggings": "models/overlay/armor_otter/infernal_legs_otter.overlay.json",
+    "itemeufonia:infernal2_armor_leggings": "models/overlay/armor_otter/infernal2_legs_otter.overlay.json"
+  },
+  "boots_overlays": {
+    "minecraft:diamond_boots": "models/overlay/armor_otter/diamond_feet_otter.overlay.json",
+    "minecraft:iron_boots": "models/overlay/armor_otter/iron_feet_otter.overlay.json", 
+    "minecraft:golden_boots": "models/overlay/armor_otter/gold_feet_otter.overlay.json",
+    "minecraft:chainmail_boots": "models/overlay/armor_otter/chainmail_feet_otter.overlay.json",
+    "minecraft:netherite_boots": "models/overlay/armor_otter/netherite_feet_otter.overlay.json",
+    "minecraft:leather_boots": "models/overlay/armor_otter/leather_feet_otter.overlay.json",
+    "itemeufonia:rabanagua_armor_boots": "models/overlay/armor_otter/rabanagua_feet_otter.overlay.json",
+    "itemeufonia:dimensional_armor_boots": "models/overlay/armor_otter/dimensional_feet_otter.overlay.json",
+    "itemeufonia:infernal_armor_boots": "models/overlay/armor_otter/infernal_feet_otter.overlay.json",
+    "itemeufonia:infernal2_armor_boots": "models/overlay/armor_otter/infernal2_feet_otter.overlay.json"
+  },
+  "left_item_bones": ["left_hand_item"],
+  "right_item_bones": ["right_hand_item"],
+  "model_scale": 0.9375,
+  "motion_threshold": 0.1
+}

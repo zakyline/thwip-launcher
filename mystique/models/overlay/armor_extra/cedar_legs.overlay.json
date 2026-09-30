@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_extra/armor_legs.geo.json",
+  "texture": "models/overlay/armor_extra/cedar_armor.png",
+  "render_layer": "entityTranslucent"
+}

@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/otter_projector_light.geo.json",
+  "texture": "models/overlay/otter_projector.png",
+  "render_layer": "entityTranslucentEmissive"
+}

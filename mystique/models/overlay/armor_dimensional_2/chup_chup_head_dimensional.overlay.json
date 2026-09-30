@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_dimensional_2/chup_chup_head_dimensional.geo.json",
+  "texture": "models/overlay/armor_dimensional_2/chup_chup_dimensional.png",
+  "render_layer": "entityTranslucent"
+}

@@ -1,0 +1,11 @@
+[host]
+# IP address for the voice server to bind to
+# 0.0.0.0 = bind to all available interfaces
+ip = "0.0.0.0"
+# UDP port for the voice server
+port = 24454
+
+# Public IP and port that clients will connect to
+[host.public]
+ip = "laurel-silliness.tun.ply.gg"
+port = 46695

@@ -1,0 +1,154 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.Lunch",
+				"texture_width": 48,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "root",
+					"pivot": [0, 3, 0]
+				},
+				{
+					"name": "body_upper",
+					"parent": "body",
+					"pivot": [0.00185, 7.97654, -2.37273]
+				},
+				{
+					"name": "left_arm",
+					"parent": "body_upper",
+					"pivot": [1.40185, 8.27654, -2.32273]
+				},
+				{
+					"name": "left_hand",
+					"parent": "left_arm",
+					"pivot": [2.40185, 6.47654, -1.32273]
+				},
+				{
+					"name": "left_hand_item",
+					"parent": "left_hand",
+					"pivot": [2.40185, 2.82654, -4.32273],
+					"rotation": [60, 0, 0]
+				},
+				{
+					"name": "right_arm",
+					"parent": "body_upper",
+					"pivot": [-1.39815, 8.27654, -2.32273]
+				},
+				{
+					"name": "right_hand",
+					"parent": "right_arm",
+					"pivot": [-2.39815, 6.47654, -1.32273]
+				},
+				{
+					"name": "right_hand_item",
+					"parent": "right_hand",
+					"pivot": [-2.34815, 2.82654, -4.32273],
+					"rotation": [60, 0, 0]
+				},
+				{
+					"name": "head",
+					"parent": "body_upper",
+					"pivot": [-0.09877, 11.06469, -2.4346],
+					"cubes": [
+						{
+							"origin": [-3, 10.64776, -4.91263],
+							"size": [6, 5, 5.15],
+							"uv": {
+								"north": {"uv": [5, 5], "uv_size": [6, 5]},
+								"east": {"uv": [0, 5], "uv_size": [5, 5]},
+								"south": {"uv": [16, 5], "uv_size": [6, 5]},
+								"west": {"uv": [11, 5], "uv_size": [5, 5]},
+								"up": {"uv": [5, 0], "uv_size": [6, 5]},
+								"down": {"uv": [11, 5], "uv_size": [6, -5]}
+							}
+						},
+						{"origin": [-3, 10.64776, -4.91263], "size": [6, 5, 5.15], "inflate": 0.4, "uv": [0, 38]},
+						{
+							"origin": [-3.9, 12.64776, -2.86263],
+							"size": [1, 2, 2],
+							"uv": {
+								"north": {"uv": [36, 16], "uv_size": [1, 2]},
+								"east": {"uv": [34, 16], "uv_size": [2, 2]},
+								"south": {"uv": [39, 16], "uv_size": [1, 2]},
+								"west": {"uv": [37, 16], "uv_size": [2, 2]},
+								"up": {"uv": [36, 14], "uv_size": [1, 2]},
+								"down": {"uv": [37, 16], "uv_size": [1, -2]}
+							}
+						},
+						{
+							"origin": [2.9, 12.64776, -2.86263],
+							"size": [1, 2, 2],
+							"uv": {
+								"north": {"uv": [37, 16], "uv_size": [-1, 2]},
+								"east": {"uv": [39, 16], "uv_size": [-2, 2]},
+								"south": {"uv": [40, 16], "uv_size": [-1, 2]},
+								"west": {"uv": [36, 16], "uv_size": [-2, 2]},
+								"up": {"uv": [37, 14], "uv_size": [-1, 2]},
+								"down": {"uv": [38, 16], "uv_size": [-1, -2]}
+							}
+						},
+						{
+							"origin": [-3, 10.64776, -6.86263],
+							"size": [6, 3, 2],
+							"uv": {
+								"north": {"uv": [19, 23], "uv_size": [6, 3]},
+								"east": {"uv": [17, 23], "uv_size": [2, 3]},
+								"south": {"uv": [27, 23], "uv_size": [6, 3]},
+								"west": {"uv": [25, 23], "uv_size": [2, 3]},
+								"up": {"uv": [19, 21], "uv_size": [6, 2]},
+								"down": {"uv": [25, 23], "uv_size": [6, -2]}
+							}
+						}
+					]
+				},
+				{
+					"name": "left_eyebrow",
+					"parent": "head",
+					"pivot": [1.50185, 14.15154, -4.64773]
+				},
+				{
+					"name": "right_eyebrow",
+					"parent": "head",
+					"pivot": [-1.49815, 14.4015, -4.64773]
+				},
+				{
+					"name": "body_lower",
+					"parent": "body",
+					"pivot": [0.00185, 8.16382, -2.22272]
+				},
+				{
+					"name": "tail",
+					"parent": "body_lower",
+					"pivot": [0.01435, 2.36417, 1.78413]
+				},
+				{
+					"name": "tail_2",
+					"parent": "tail",
+					"pivot": [0.02685, 0.40367, 3.77273]
+				},
+				{
+					"name": "left_leg",
+					"parent": "root",
+					"pivot": [1.75185, 2.92654, -0.32273]
+				},
+				{
+					"name": "right_leg",
+					"parent": "root",
+					"pivot": [-1.74815, 2.92654, -0.32273]
+				}
+			]
+		}
+	]
+}

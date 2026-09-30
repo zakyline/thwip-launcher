@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor/armor_chest.geo.json",
+  "texture": "models/overlay/armor/netherite_layer_1.png",
+  "render_layer": "entityTranslucent"
+}

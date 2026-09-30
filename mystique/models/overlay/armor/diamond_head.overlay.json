@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor/armor_head.geo.json",
+  "texture": "models/overlay/armor/diamond_layer_1.png",
+  "render_layer": "entityTranslucent"
+}

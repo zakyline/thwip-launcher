@@ -1,0 +1,60 @@
+{
+  "animations": "animations/disguise/eon.animation.json",
+  "model": "models/disguise/eon/eon.geo.json",
+  "texture": "models/disguise/eon/eon.png",
+  "render_layer": "entityTranslucent",
+  
+    "anim_controllers": [
+    {
+      "name": "basic_emote"
+    },
+    {
+      "name": "extended_pose"
+    },
+    {
+      "name": "basic_idle",
+      "suppressable": false
+    },
+    {
+      "name": "basic_override"
+    },
+    {
+      "name": "basic_arm_left"
+    },
+    {
+      "name": "basic_arm_right"
+    },
+    {
+      "name": "divine_emote" 
+    }
+  ],
+  "static_overlays": [],
+  "helmet_overlays": {
+    "minecraft:chainmail_helmet": "models/overlay/ogre_armor_head.overlay.json",
+    "minecraft:white_wool": "models/overlay/western_hat_white.overlay.json",
+    "minecraft:black_wool": "models/overlay/western_hat_black.overlay.json",
+    "minecraft:brown_wool": "models/overlay/western_hat_brown.overlay.json",
+    "itemeufonia:tinfoil_hat_helmet": "models/overlay/armor_rol/eon_tinfoil_hat.overlay.json",
+    "itemeufonia:dimensional_armor_helmet": "models/overlay/armor_dimensional/eon_helmet_dimensional.overlay.json",
+    "itemeufonia:dimensional_armor_2_helmet": "models/overlay/armor_dimensional_2/eon_helmet_dimensional.overlay.json"
+  },
+  "chestplate_overlays": {
+    "minecraft:chainmail_chestplate": "models/overlay/ogre_armor_chest.overlay.json",
+    "itemeufonia:dimensional_armor_chestplate": "models/overlay/armor_dimensional/eon_chest_dimensional.overlay.json",
+    "itemeufonia:dimensional_armor_2_chestplate": "models/overlay/armor_dimensional_2/eon_chest_dimensional.overlay.json"
+  },
+  "leggings_overlays": {
+    "minecraft:chainmail_leggings": "models/overlay/ogre_armor_legs.overlay.json",
+    "itemeufonia:dimensional_armor_leggings": "models/overlay/armor_dimensional/eon_leggings_dimensional.overlay.json",
+    "itemeufonia:dimensional_armor_2_leggings": "models/overlay/armor_dimensional_2/eon_leggings_dimensional.overlay.json"
+  },
+  "boots_overlays": {
+    "minecraft:chainmail_boots": "models/overlay/ogre_armor_feet.overlay.json",
+    "itemeufonia:dimensional_armor_boots": "models/overlay/armor_dimensional/eon_feet_dimensional.overlay.json",
+    "itemeufonia:dimensional_armor_2_boots": "models/overlay/armor_dimensional_2/eon_feet_dimensional.overlay.json"
+  },
+  "left_item_bones": ["left_hand_item"],
+  "right_item_bones": ["right_hand_item"],
+  "model_scale": 0.9375,
+  "motion_threshold": 0.1
+}

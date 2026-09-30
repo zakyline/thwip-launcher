@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_extra/armor_chest.geo.json",
+  "texture": "models/overlay/armor_extra/limbo_armor.png",
+  "render_layer": "entityTranslucent"
+}

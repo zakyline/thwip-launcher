@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_rol/satan_bankito.geo.json",
+  "texture": "models/overlay/armor_rol/satan_bankito.png",
+  "render_layer": "entityTranslucent"
+}

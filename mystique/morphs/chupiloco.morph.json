@@ -1,0 +1,47 @@
+{
+  "animations": "animations/disguise/chupiloco.animation.json",
+  "model": "models/disguise/chupiloco.geo.json",
+  "texture": "models/disguise/chupiloco.png",
+  "render_layer": "entityTranslucent",
+  
+    "anim_controllers": [
+    {
+      "name": "basic_emote"
+    },
+    {
+      "name": "basic_pose"
+    },
+    {
+      "name": "basic_idle",
+      "suppressable": false
+    },
+    {
+      "name": "basic_override"
+    },
+    {
+      "name": "basic_arm_left"
+    },
+    {
+      "name": "basic_arm_right"
+    }
+  ],
+  "static_overlays": [],
+  "helmet_overlays": {
+    "itemeufonia:dimensional_armor_helmet": "models/overlay/armor_dimensional/chup_chup_head_dimensional.overlay.json",
+    "itemeufonia:dimensional_armor_2_helmet": "models/overlay/armor_dimensional_2/chup_chup_head_dimensional.overlay.json"
+  },
+  "chestplate_overlays": {
+    "itemeufonia:dimensional_armor_chestplate": "models/overlay/armor_dimensional/chup_chup_chest_dimensional.overlay.json",
+    "itemeufonia:dimensional_armor_2_chestplate": "models/overlay/armor_dimensional_2/chup_chup_chest_dimensional.overlay.json"
+  },
+  "leggings_overlays": {
+    "itemeufonia:dimensional_armor_leggings": "models/overlay/armor_dimensional/chup_chup_leggings_dimensional.overlay.json",
+    "itemeufonia:dimensional_armor_2_leggings": "models/overlay/armor_dimensional_2/chup_chup_leggings_dimensional.overlay.json"
+  },
+  "boots_overlays": {
+  },
+  "left_item_bones": ["left_hand_item"],
+  "right_item_bones": ["right_hand_item"],
+  "model_scale": 0.9375,
+  "motion_threshold": 0.1
+}

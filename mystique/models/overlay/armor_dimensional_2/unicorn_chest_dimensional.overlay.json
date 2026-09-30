@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/armor_dimensional_2/unicorn_chest_dimensional.geo.json",
+  "texture": "models/overlay/armor_dimensional_2/unicorn_dimensional.png",
+  "render_layer": "entityTranslucent"
+}

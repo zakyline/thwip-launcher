@@ -1,0 +1,5 @@
+{
+  "model": "models/overlay/otter/otter_kernel_cloud.geo.json",
+  "texture": "models/overlay/otter/otter_kernel_cloud.png",
+  "render_layer": "entityTranslucent"
+}
