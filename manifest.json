@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "gameVersion": "1.21.1",
   "loaderVersion": "0.16.10",
   "totalFiles": 762,
@@ -361,8 +361,8 @@
     },
     {
       "path": "mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar",
-      "size": 81506,
-      "sha1": "7b36b4a28d696543db00b3e6bfcddab6cc1aa049"
+      "size": 81082,
+      "sha1": "e215729f051eb6ca21c50c59de3039e48c2ce292"
     },
     {
       "path": "mods/waveycapes-fabric-1.11.2-mc1.21.1.jar",
@@ -3817,8 +3817,8 @@
   ],
   "whitelist": [
     {
-      "uuid": "5df33b2d-4c6f-40e9-a4c8-be622541fba8",
-      "name": "zakyline"
+      "uuid": "a7dd6333-621c-4485-80f7-03b258912300",
+      "name": "SpreenDMC"
     },
     {
       "uuid": "3fbd983b-cec3-4628-a0ec-fe85de01fead",
