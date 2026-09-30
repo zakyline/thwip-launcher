@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "gameVersion": "1.21.1",
   "loaderVersion": "0.16.10",
-  "totalFiles": 761,
+  "totalFiles": 762,
   "files": [
     {
       "path": "mods/architectury-13.0.8.jar",
@@ -298,6 +298,11 @@
       "path": "mods/resourcefullib-fabric-1.21-3.0.12.jar",
       "size": 485586,
       "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd"
+    },
+    {
+      "path": "mods/shine-1.0.0+1.21.1.jar",
+      "size": 136205,
+      "sha1": "be56b3d43b2e65068e76ecc211f0b9de44ee5dbe"
     },
     {
       "path": "mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
